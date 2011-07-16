@@ -1,0 +1,5 @@
+Note :
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:HungHuynh/-iPhone--Filter-Image.git
+  git push -u origin master
